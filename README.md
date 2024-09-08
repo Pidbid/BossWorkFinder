@@ -10,9 +10,10 @@ Boss直聘岗位信息采集，学习用，请在下载后24H删除
 ## Show
 ![pic1](https://github.com/Pidbid/BossWorkFinder/blob/main/1.png)
 ## Futures
-- [√] 功能基本可用  
-- [√] 可修改地址  
-- [x] 可修改岗位  
-- [x] 功能UI化  
+- [x] 功能基本可用  
+- [x] 可修改地址 
+- [ ] 可修改岗位  
+- [ ] 设置通勤以及查看通勤距离
+- [ ] 功能UI化  
 ## About
 [Wicos 博客](https://wicos.me)
